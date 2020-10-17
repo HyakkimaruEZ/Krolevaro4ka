@@ -1,2 +1,2 @@
-# Krolevoro4ka
+# Krolevaro4ka
 Текстовый репозиторий
